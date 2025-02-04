@@ -19,12 +19,12 @@ BharatKrishi is a digital platform designed to connect farmers directly with buy
 
 ## TECH STACK INCLUDES
 
-1.HTML: Structures core features like profiles, contract management, and chat windows.
-2.CSS: Handles design.
-3.JavaScript: Enables real-time price negotiation chats and interactive dashboards.
-4.React.js: Manages the state of the application, ensuring smooth transitions between different sections like contract management, payment gateways, and communication systems.
-5.Node.js: For building a fast, scalable, structured, and secure backend.
-6.MongoDB: For managing contracts, user profiles, user interactions, transactions, etc.
-7.PayPal: To ensure secure and reliable payment services.
-8.Contract: Interface that allows users to select and customize contract clauses based on their needs and also it allows to propose, accept, or counter changes to provided terms.
+1. HTML: Structures core features like profiles, contract management, and chat windows.
+2. CSS: Handles design.
+3. JavaScript: Enables real-time price negotiation chats and interactive dashboards.
+4. React.js: Manages the state of the application, ensuring smooth transitions between different sections like contract management, payment gateways, and communication systems.
+5. Node.js: For building a fast, scalable, structured, and secure backend.
+6. MongoDB: For managing contracts, user profiles, user interactions, transactions, etc.
+7. PayPal: To ensure secure and reliable payment services.
+8. Contract: Interface that allows users to select and customize contract clauses based on their needs and also it allows to propose, accept, or counter changes to provided terms.
             Send notifications for new comments, changes, or approval requests to keep all parties informed.
